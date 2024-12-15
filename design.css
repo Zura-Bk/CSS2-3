@@ -1,0 +1,261 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header_cont {
+    max-width: 1231px;
+    width: 100%;
+    margin-left: auto;
+    background: #F7F4FF;
+    padding: 12px 24px;
+}
+
+#link_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 277.67px;
+    margin-right: 277.67px;
+}
+
+#nextmove_logo {
+    vertical-align: middle;
+}
+
+#contact {
+    vertical-align: middle;
+    color: #8E26C0;
+    font-size: 14px;
+    font-family: "Helvetica";
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+}
+
+#link_box a {
+    padding-left: 18px;
+    text-decoration: none;
+    color: #323232;
+    font-size: 18px;
+    font-family: "Helvetica";
+}
+
+#main_cont {
+    max-width: 1299px;
+    width: 100%;
+    margin: auto;
+    margin-top: 142px;
+    margin-bottom: 83px;
+    vertical-align: middle;
+}
+
+#section_one {
+    display: inline-block;
+    max-width: 630px;
+    font-family: "Helvetica";
+    width: 100%;
+    margin-left: 45px;
+    vertical-align: top;
+}
+
+#offers {
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+#section_one_paragraph {
+    color: #535862;
+    font-size: 20px;
+    font-family: "Helvetica";
+    margin-bottom: 16px;
+}
+
+#list {
+    font-size: 24px;
+    font-family: "Helvetica";
+    margin-left: 28px;
+}
+
+#section_two {
+    max-width: 1221px;
+    width: 100%;
+    margin-left: auto;
+    margin-top: 83px;
+    font-family: "Helvetica";
+}
+
+#paragraph_two {
+    text-align: center;
+    margin-bottom: 28px;
+    max-width: 905px;
+    width: 100%;
+    margin: auto;
+}
+
+#paragraph_two_header {
+    font-size: 56px;
+}
+
+#paragraph_two_paragraph {
+    color: #535862;
+    font-size: 20px;
+    padding-bottom: 28px;
+}
+
+#section_three {
+    display: inline-block;
+    max-width: 1221px;
+    width: 100%;
+    border-radius: 16px;
+    background: #F7F4FF;
+    margin: auto;
+    padding: 32px;
+}
+
+#contact_info_one {
+    display: inline-block;
+    text-align: left;
+    padding: 20px;
+    border-radius: 16px;
+    background: #FFF;
+    max-width: 403px;
+    width: 100%;
+    font-family: "Helvetica";
+}
+
+h2 {
+    font-size: 20px;
+    width: 100%;
+    margin-bottom: 6px;
+}
+
+#address_one {
+    vertical-align: middle;
+    max-width: 291px;
+    width: 100%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 24px;
+}
+
+#image_one {
+    vertical-align: middle;
+    margin-bottom: 24px;
+}
+
+#image_two {
+    vertical-align: middle;
+    margin-bottom: 24px;
+}
+
+#image_three {
+    vertical-align: middle;
+}
+
+#address_two {
+    vertical-align: middle;
+    max-width: 291px;
+    width: 100%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 24px;
+}
+
+#address_three {
+    vertical-align: middle;
+    max-width: 291px;
+    width: 100%;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#contact_info_two {
+    display: inline-block;
+    max-width: 730px;
+    width: 100%;
+    margin-left: 24px;
+    font-family: "Helvetica";
+}
+
+h3 {
+    color: #1B003D;
+    font-size: 32px;
+}
+
+input {
+    max-width: 730px;
+    width: 100%;
+    margin-bottom: 24px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+}
+
+label {
+    color: #1B003D;
+    font-size: 14px;
+}
+
+#send_button {
+    text-align: right;
+}
+
+#sendto {
+    padding: 12px 24px;
+    border-radius: 8px;
+    background: #8E26C0;
+    width: 140px;
+    color: #FFF;
+}
+
+#footer_container {
+    max-width: 1280px;
+    width: 100%;
+    margin: auto;
+}
+
+#main_footer {
+    background: #53389E;
+    margin-top: 163px;
+    padding-top: 64px;
+    padding-bottom: 48px;
+}
+
+#list_of_things a, p {
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+    width: 200px;
+    text-align: center;
+    color: #E9D7FE;
+}
+
+#list_of_things {
+    display: inline-block;
+}
+
+#top {
+    display: inline-block;
+}
+
+#bottom {
+    margin-top: 64px;
+}
+
+#exit {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 1377px;
+    width: 100%;
+}
+
+#footer_image {
+    vertical-align: middle;
+}
+
+#exit_p {
+    display: inline-block;
+    text-align: right;
+    margin-right: auto;
+}
